@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 import { uRL_API_KEY, iMGUR_API_KEY } from "../in.js";
-=======
->>>>>>> cb5a00e96cd7227e77c68e233bbafe00c2e2d879
 
 var timeId;
 let list_box = document.getElementById("search-items");
